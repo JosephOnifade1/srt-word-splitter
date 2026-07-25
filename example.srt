@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:03,000
+Welcome to the SRT Word Splitter tutorial for YouTube Shorts
+
+2
+00:00:03,500 --> 00:00:07,000
+This tool automatically breaks long captions into bite-sized chunks
+
+3
+00:00:07,500 --> 00:00:10,500
+Perfect for faceless content creators and meme-style videos
+
+4
+00:00:11,000 --> 00:00:14,000
+Run the script and watch your captions transform instantly
